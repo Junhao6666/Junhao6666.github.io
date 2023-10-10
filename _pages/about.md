@@ -25,7 +25,7 @@ News
   - Journal: Expert Systems With Applications
 
 <details>
-  <summary>show more</summary>
+  <summary>more news</summary>
   
   这是隐藏的文本内容。
   
