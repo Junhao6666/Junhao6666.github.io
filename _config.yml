@@ -115,7 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : "https://space.bilibili.com/3493256541243933?spm_id_from=333.1228.0.0"
+  links:
+    - label: "bilibili"
+      icon: "fa-brands fa-bilibili"   
+      url: "https://space.bilibili.com/3493256541243933?spm_id_from=333.1228.0.0"
 
 # Reading Files
 include:
