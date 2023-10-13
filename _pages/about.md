@@ -14,6 +14,8 @@ My research interests encompass a wide range of topics, including Graph Neural N
 
 News
 ======
+* [Oct 2023] The experiment of the new paper is completed:
+  - Target Journal: Information Fusion
 * [Oct 2023] Newly Submitted Paper:
   - Title: Heart Disease Prediction and Guiding Personalized Care with AIGC: Towards a Human-Centered Medical System
   - Journal: Artificial Intelligence In Medicine
