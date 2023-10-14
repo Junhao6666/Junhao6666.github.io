@@ -14,6 +14,7 @@ My research interests encompass a wide range of topics, including Graph Neural N
 
 News
 ======
+* [Oct 2023] [PyG heterogeneous graph recording completed](https://www.bilibili.com/video/BV1vz4y1j7eC/?spm_id_from=333.999.0.0&vd_source=4d252ee3a2cef99640bf78da96185b64)
 * [Oct 2023] The experiment of the new paper is completed:
   - Target Journal: Information Fusion
 * [Oct 2023] Newly Submitted Paper:
