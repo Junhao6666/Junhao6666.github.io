@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ##  National-level
-*  2023 In the Kaggle competition 'Bengali AI Speech Recognition,' rank of 12 out of 753(TOP 1.59%)
+*  2023 In the Kaggle competition 'Bengali AI Speech Recognition,'Gold medal, rank of 11 out of 753(TOP 1.4%)
 *  2020 National scholarship 
 *  2020 National Mathematical Modeling Competition for College Students(CUMCM) National First Prize(Top 0.605%)
 *  2020 American College Student Mathematical Modeling Competition M Award(Top 7.09%)
