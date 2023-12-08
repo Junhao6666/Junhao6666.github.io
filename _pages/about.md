@@ -16,17 +16,6 @@ News
 ======
 * [Oct 2023] [In the Kaggle competition 'Bengali AI Speech Recognition,' Gold Medal,I achieved a rank of 11 out of 753(TOP 1.4%)](https://www.kaggle.com/competitions/bengaliai-speech)
 * [Oct 2023] [PyG heterogeneous graph recording completed](https://www.bilibili.com/video/BV1vz4y1j7eC/?spm_id_from=333.999.0.0&vd_source=4d252ee3a2cef99640bf78da96185b64)
-* [Oct 2023] The experiment of the new paper is completed:
-  - Target Journal: Information Fusion
-* [Oct 2023] Newly Submitted Paper:
-  - Title: Heart Disease Prediction and Guiding Personalized Care with AIGC: Towards a Human-Centered Medical System
-  - Journal: Artificial Intelligence In Medicine
-* [Oct 2023] Newly Submitted Paper:
-  - Title: MAGIC:Detecting Online Fake News using A Multimodal Adaptive Graph-based Intelligent Classification Model
-  - Journal: Knowledge-Based Systems
-* [Sep 2023] Newly Submitted Paper:
-  - Title: Geometric Deep Learning for Rumor Detection: A Systematic Literature Review
-  - Journal: Expert Systems With Applications
 
 <details>
   <summary>more news</summary>
