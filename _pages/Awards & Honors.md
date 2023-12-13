@@ -20,4 +20,4 @@ author_profile: true
 *  2019 Group C/C of the 10th Blue Bridge Cup National Software and Information Technology Professionals Competition (Second Prize of Jiangsu Province)
   
 ##  School-level
-*  2018-2022 The school scholarship is first class 6 times 
+*  2018-2022 First class school scholarship  6 times 
