@@ -10,6 +10,12 @@ author_profile: true
 *  2020 National scholarship 
 *  2020 National Mathematical Modeling Competition for College Students(CUMCM) National First Prize(Top 0.605%)
 *  2020 American College Student Mathematical Modeling Competition M Award(Top 7.09%)
+<details>
+  <summary>more news</summary>
+  
+  这是隐藏的文本内容。
+  
+  </details>
 *  2020 National University Computer Design Competition (National Third Prize)
 *  2020 National College Student Smart Car Competition (National Third Prize)
 
@@ -20,4 +26,6 @@ author_profile: true
 *  2019 Group C/C of the 10th Blue Bridge Cup National Software and Information Technology Professionals Competition (Second Prize of Jiangsu Province)
   
 ##  School-level
-*  2018-2022 First class school scholarship  6 times 
+*  2018-2022 First class school scholarship  6 times
+
+ </details>
