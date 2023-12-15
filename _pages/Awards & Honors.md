@@ -15,7 +15,6 @@ author_profile: true
   
   这是隐藏的文本内容。
   
-  </details>
 *  2020 National University Computer Design Competition (National Third Prize)
 *  2020 National College Student Smart Car Competition (National Third Prize)
 
