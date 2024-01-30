@@ -14,6 +14,7 @@ My research interests encompass a wide range of topics, including Graph Neural N
 
 News
 ======
+* [Jan 2024] [Advancing Crowd Forecasting with Graphs across Microscopic Trajectory to Macroscopic Dynamics accepted by information fusion].
 * [Oct 2023] [In the Kaggle competition 'Bengali AI Speech Recognition,' Gold Medal,I achieved a rank of 11 out of 753(TOP 1.4%)](https://www.kaggle.com/competitions/bengaliai-speech)
 * [Oct 2023] [PyG heterogeneous graph recording completed](https://www.bilibili.com/video/BV1vz4y1j7eC/?spm_id_from=333.999.0.0&vd_source=4d252ee3a2cef99640bf78da96185b64)
 
