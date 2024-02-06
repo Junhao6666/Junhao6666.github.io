@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-hi
+[Advancing Crowd Forecasting with Graphs across Microscopic Trajectory to Macroscopic Dynamics accepted by information fusion.](https://www.sciencedirect.com/science/article/pii/S1566253524000538)
+
 
 
 {% if author.googlescholar %}
