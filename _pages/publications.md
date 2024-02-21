@@ -19,6 +19,7 @@ LLM-based anxiety level determination and person-centered de-escalatory guidance
 Geometric Deep Learning for Rumor Detection: A Systematic Literature Review
 Smart Guardian: An Ai-Based Coronary Heart Disease Prediction System,Focusing on Your Cardiac Health!
 MAGIC: A Multimodal Adaptive Graph-based Intelligent Classification Model for Fake News
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
