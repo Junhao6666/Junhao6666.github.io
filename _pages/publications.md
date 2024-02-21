@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-[Advancing Crowd Forecasting with Graphs across Microscopic Trajectory to Macroscopic Dynamics accepted by information fusion.](https://www.sciencedirect.com/science/article/pii/S1566253524000538)
+# Co-first author
+[Xie, C. Z. T., Xu, J., Zhu, B., Tang, T. Q., Lo, S., Zhang, B., & Tian, Y. (2024). Advancing crowd forecasting with graphs across microscopic trajectory to macroscopic dynamics. Information Fusion, 102275.](https://www.sciencedirect.com/science/article/pii/S1566253524000538)
 
 
 
