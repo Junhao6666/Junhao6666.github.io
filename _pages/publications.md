@@ -9,7 +9,7 @@ author_profile: true
 ## Co-first author
 Xie, C. Z. T., Xu, J., Zhu, B., Tang, T. Q., Lo, S., Zhang, B., & Tian, Y. (2024). Advancing crowd forecasting with graphs across microscopic trajectory to macroscopic dynamics. Information Fusion, 102275.[PDF](https://www.sciencedirect.com/science/article/pii/S1566253524000538)
 
-## Corresponding author author
+## Corresponding author
 
 ## Others
 
